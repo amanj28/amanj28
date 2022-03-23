@@ -3,12 +3,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-
-- 👋 Hi, I’m Aman Rajput
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👨🏻‍🎓 GHRCE '18 IITB ‘22 🔐
+- 👔 CS Engineer 🎓
+- 🎓 Professional Cyber Security Engineer 👨🏻‍💻
+- 👾 Front End Developer & UI/UX Designer
 
 ### 💬 Talk with me here social media
 <p align="left"> <a href="https://twitter.com/its_aman28" target="blank"><img src="https://img.shields.io/twitter/follow/its_aman28?logo=twitter&style=for-the-badge" alt="its_aman28" /></a> </p> 
@@ -31,4 +29,4 @@
 
  <br/>
     <a href="https://github.com/amanj28/github-readme-stats"><img alt="Amanj28' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amanj28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/amanj28/github-readme-stats"><img alt="Amanj28's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanj28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+  <a href="https://github.com/amanj28/github-readme-stats"><img alt="Amanj28' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanj28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
