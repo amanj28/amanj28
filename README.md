@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aman_Rajput</h1>
+<h1 align="center">Hi 👋, I'm Aman Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
@@ -14,13 +14,10 @@
 <p align="left"> <a href="https://twitter.com/its_aman28" target="blank"><img src="https://img.shields.io/twitter/follow/its_aman28?logo=twitter&style=for-the-badge" alt="its_aman28" /></a> </p> 
 
 
-
-
-
-
-
-
 ![counter](https://en4xilm51szg60h.m.pipedream.net/favicon.ico) 
+
+
+
 
 #### Top Technologies
 
