@@ -32,7 +32,3 @@
  <br/>
     <a href="https://github.com/amanj28/github-readme-stats"><img alt="Amanj28' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Amanj28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/amanj28/github-readme-stats"><img alt="Amanj28's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanj28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-
-🚀 Github
-
- <a href="https://github.com/amanj28?tab=followers"><img src="https://img.shields.io/github/followers/amanj28?label=Followers&style=social" alt="GitHub Badge"></a>
