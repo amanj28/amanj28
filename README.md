@@ -1,32 +1,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/99351763/159941885-5b597ac8-73a7-40ec-af7d-06a31a16c4aa.gif" width="200" height="180" />
 </p>
-  <p align="center">
-  </p>
-  <p align="center">
-    <a href="/amanj28readme_fr.md">Français </a>
-    ·
-    <a href="/amanj28/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    .
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    .
-    <a href="/amanj28/readme_np.md">नेपाली</a>
-    .
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
-</p>
 
 <h1 align="center">Hi 👋, I'm Aman Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
