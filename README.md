@@ -1,7 +1,11 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/99351763/159941885-5b597ac8-73a7-40ec-af7d-06a31a16c4aa.gif" width="200" height="180" />
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Aman Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 
 - 👨🏻‍🎓 GHRCE '18 IITB ‘22 🔐
 - 👔 CS Engineer 🎓
@@ -14,10 +18,6 @@
 
 ![counter](https://en4xilm51szg60h.m.pipedream.net/favicon.ico) 
  <a href="https://github.com/amanj28?tab=followers"><img src="https://img.shields.io/github/followers/amanj28?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-
-
 
 
 🔥 Top Technologies
