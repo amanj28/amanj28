@@ -18,7 +18,7 @@
  <a href="https://github.com/amanj28?tab=followers"><img src="https://img.shields.io/github/followers/amanj28?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-🔥 Top Technologies
+🔥 Top Languages
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
