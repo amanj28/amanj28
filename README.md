@@ -6,7 +6,7 @@
 <h3 align="center">A Passionate Front End Developer From India</h3>
 
 - 👨🏻‍🎓 GHRCE '18
-- CS department 
+- 🎓 CS department 
 - 👾 Front End Developer & UI/UX Designer
 
 ### 💬 Talk with me here social media
