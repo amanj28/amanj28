@@ -5,9 +5,8 @@
 <h1 align="center">Hi 👋, I'm Aman Rajput</h1>
 <h3 align="center">A Passionate Front End Developer From India</h3>
 
-- 👨🏻‍🎓 GHRCE '18 IITB ‘22 🔐
-- 👔 CS Engineer 🎓
-- 🎓 Professional Cyber Security Engineer 👨🏻‍💻
+- 👨🏻‍🎓 GHRCE '18
+- CS department 
 - 👾 Front End Developer & UI/UX Designer
 
 ### 💬 Talk with me here social media
