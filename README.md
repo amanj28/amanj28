@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Aman Rajput</h1>
 <h3 align="center">A Passionate Front End Developer From India</h3>
 
-<a href="https://app.daily.dev/its_aman28"><img src="https://api.daily.dev/devcards/c73ff97a87e54bee94a7204cf19f0000.png?r=dtv" width="250px" align="right" alt="Aman Rajput's Dev Card"/></a>
+<a href="https://app.daily.dev/its_aman28"><img src="https://api.daily.dev/devcards/c73ff97a87e54bee94a7204cf19f0000.png?r=vxx" width="250px" align="right" alt="Aman Rajput's Dev Card"/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
