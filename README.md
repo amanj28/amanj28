@@ -16,7 +16,7 @@
 
 - I also like sharing content related to the stuff that I have learned over the years in Web Development so it can help other people of the Dev Community.
 
-
+![Achievements](https://raw.githubusercontent.com/omBratteng/amanj28/github-metrics/achievements.svg)
 <br>
 
 ## 🚀 - Follow me on here social media for the Awesome content related to Web Development and Programming 🚀:
