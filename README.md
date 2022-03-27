@@ -12,12 +12,14 @@
 
 ## 📎 About:
 
-- 👨🏻‍🎓 GHRCE '18
-- 🎓 CS department 
-- 👾 Front End Developer & UI/UX Designer
-</br>
+- I'm a Frontend Web Developer building the Front-end of Websites and Web Applications that leads to the success of the overall product. While building any product, I always make sure that whatever I'm building, it's going to solve problems and it's going to provide value no matter how small or large the product is.
 
-## 🚀 Talk with me here social media:
+- I also like sharing content related to the stuff that I have learned over the years in Web Development so it can help other people of the Dev Community.
+
+
+<br>
+
+## 🚀 - Follow me on here social media for the Awesome content related to Web Development and Programming 🚀:
 <p align="left"> <a href="https://twitter.com/its_aman28" target="blank"><img src="https://img.shields.io/twitter/follow/its_aman28?logo=twitter&style=for-the-badge" alt="its_aman28" /></a> </p> 
 <br/>
 
