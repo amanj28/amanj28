@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/99351763/159941885-5b597ac8-73a7-40ec-af7d-06a31a16c4aa.gif" width="200" height="180" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aman Rajput</h1>
+<h1 align="center">- Hi 👋, I'm Aman - </h1>
 <h3 align="center">A Passionate Front End Developer From India</h3>
 
 <a href="https://app.daily.dev/its_aman28"><img src="https://api.daily.dev/devcards/c73ff97a87e54bee94a7204cf19f0000.png?r=u86" width="250px" align="right" alt="Aman Rajput's Dev Card"/></a>
