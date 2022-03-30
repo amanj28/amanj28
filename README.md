@@ -20,7 +20,7 @@
 
 ## 🚀 - Follow me on here social media for the Awesome content related to Web Development and Programming 🚀:
 <p align="left">
-<a href="https://codepen.io/aaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aaa" height="30" width="40" /></a>
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aaa" height="30" width="40" /></a>
 <a href="https://twitter.com/its_aman28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_aman28" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_.aman88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_.aman88" height="30" width="40" /></a>
 </p>
