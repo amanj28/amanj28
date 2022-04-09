@@ -27,7 +27,7 @@
 <a href="https://instagram.com/itz_.aman88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_.aman88" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <a href="https://twitter.com/its_aman28" target="blank"><img src="https://img.shields.io/twitter/follow/its_aman28?logo=twitter&style=for-the-badge" alt="its_aman28" /></a> </p> 
+<p align="left"> <a href="https://twitter.com/its_aman28" target="blank"><img src="https://img.shields.io/twitter/follow/its_aman28?logo=twitter&style=for-the-badge" alt="its_aman28" /></a>
 <br/>
 
 ![counter](https://en4xilm51szg60h.m.pipedream.net/favicon.ico) 
