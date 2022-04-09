@@ -3,6 +3,8 @@
 <img src="https://user-images.githubusercontent.com/99351763/159941885-5b597ac8-73a7-40ec-af7d-06a31a16c4aa.gif" width="200" height="180" />
 </p>
 
+
+
 <h1 align="center">- Hi 👋, I'm Aman - </h1>
 <h3 align="center">A Passionate Front End Developer From India</h3>
 
@@ -42,6 +44,8 @@
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <br/>
 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=amanj28&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Aman Rajput's GitHub graph" />
+   </a>
 
 
  <br/>
