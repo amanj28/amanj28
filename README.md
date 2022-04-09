@@ -7,7 +7,7 @@
 <h3 align="center">A Passionate Front End Developer From India</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-<a href="https://app.daily.dev/its_aman28"><img src="https://api.daily.dev/devcards/c73ff97a87e54bee94a7204cf19f0000.png?r=m3u" width="250px" align="right" alt="Aman Rajput's Dev Card"/></a>
+<a href="https://app.daily.dev/its_aman28"><img src="https://api.daily.dev/devcards/c73ff97a87e54bee94a7204cf19f0000.png?r=qht" width="250px" align="right" alt="Aman Rajput's Dev Card"/></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
