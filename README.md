@@ -2,11 +2,8 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/99351763/159941885-5b597ac8-73a7-40ec-af7d-06a31a16c4aa.gif" width="200" height="180" />
 </p>
-
-
-
-<h1 align="center">- Hi 👋, I'm Aman - </h1>
-<h3 align="center">A Passionate Front End Developer From India</h3>
+<h2 align="center">- Hi 👋, I'm Aman - </h2>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
@@ -15,8 +12,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 📎 About:
+<p align="left">
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aaa" height="30" width="40" /></a>
+<a href="https://twitter.com/its_aman28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_aman28" height="30" width="40" /></a>
+<a href="https://instagram.com/itz_.aman88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_.aman88" height="30" width="40" /></a>
+</p>
 
-- I'm a Front End and full stack Web Developer building the Front-end of Websites and UI/UX Web Applications that leads to the success of the overall product. While building any product, I always make sure that whatever I'm building, it's going to solve problems and it's going to provide value no matter how small or large the product is.
+- I'm Engineer and Full stack developer and UI / UX Designer with 3 years experience leading both front and backend development and competitive Programmer!!
 
 - I also like sharing content related to the stuff that I have learned over the years in Web Development so it can help other people of the Dev Community.
 <br>
@@ -29,15 +31,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <br>
 
-## 🚀 - Follow me on here social media for the Awesome content related to Web Development and Programming 🚀 -
 
-<p align="left">
-<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aaa" height="30" width="40" /></a>
-<a href="https://twitter.com/its_aman28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_aman28" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_.aman88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_.aman88" height="30" width="40" /></a>
-</p>
-
-## 🚀 Languages and Tools:
+## 🚀 skills:
 <br>
 <!-- TODO: Make technologies links takes you to repositories -->
 
