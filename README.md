@@ -1,9 +1,8 @@
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/99351763/159941885-5b597ac8-73a7-40ec-af7d-06a31a16c4aa.gif" width="200" height="180" />
-</p>
-<h2 align="center">- Hi 👋, I'm Aman - </h2>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+- Hi 👋, I'm Aman -
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+<h3 align="center">A Passionate Full Stack Developer & UI/UX Designer & Professional Cyber Security Engineer </h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
