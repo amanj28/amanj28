@@ -17,9 +17,8 @@
 <a href="https://instagram.com/itz_.aman88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_.aman88" height="30" width="40" /></a>
 </p>
 
-- I'm Engineer and Full stack developer and UI / UX Designer with 3 years experience leading both front and backend development and competitive Programmer!!
+- I'm Engineer & Professional Cyber Security Engineer and Full stack developer with 2 years experience leading both front and backend development!!!!
 
-- I also like sharing content related to the stuff that I have learned over the years in Web Development so it can help other people of the Dev Community.
 <br>
 
  
