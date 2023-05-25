@@ -23,13 +23,9 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
-
-
-
+    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <h3 align="center"> Front and Backend Developer / Professional Cyber Security Engineer / Yutuber </h3>
 
@@ -48,15 +44,12 @@
 
 <br>
 
- 
-![counter](https://en4xilm51szg60h.m.pipedream.net/favicon.ico) 
- <a href="https://github.com/amanj28?tab=followers"><img src="https://img.shields.io/github/followers/amanj28?label=Followers&style=social" alt="GitHub Badge" align="right"></a>
+[![](https://visitcount.itsvg.in/api?id=amanj28&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <br>
 
 
-## 🚀 skills:
+## 
 <br>
 <!-- TODO: Make technologies links takes you to repositories -->
 
