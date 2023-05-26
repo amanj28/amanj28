@@ -27,7 +27,7 @@
 <br/>  
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-<h3 align="center"> Front and Backend Developer / Professional Cyber Security Engineer / Youtuber </h3>
+<h3 align="center"> Full Stack Developer / Professional Cyber Security Engineer / Youtuber </h3>
 <h5 align="center"> - I'm Engineer & Professional Cyber Security Engineer and Full stack developer with 2 years experience leading both front and backend development!!!! </h5>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
