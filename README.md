@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://i.postimg.cc/sx6NL9Yj/g34.png" alt="Material Bread logo">
+    <img width="200" src="https://i.postimg.cc/sx6NL9Yj/g34.png](https://i.postimg.cc/G3sDfFwz/LOGO-2.jpg" alt="Material Bread logo">
  
 <p align="center">
 - Hi 👋, I'm Aman - 
